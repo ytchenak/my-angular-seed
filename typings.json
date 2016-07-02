@@ -1,0 +1,9 @@
+{
+  "name": "angular-seed",
+  "dependencies": {},
+  "globalDependencies": {
+    "angular": "registry:dt/angular#1.5.0+20160627105203",
+    "angular-ui-bootstrap": "registry:dt/angular-ui-bootstrap#0.13.3+20160602140119",
+    "bootstrap": "registry:dt/bootstrap#3.3.5+20160619023404"
+  }
+}
